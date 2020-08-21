@@ -27,3 +27,6 @@ https://github.com/beyondcode/laravel-favicon
 
 Bagisto E-commerce Platform
 https://github.com/bagisto/bagisto
+
+laratables
+https://github.com/freshbitsweb/laratables
