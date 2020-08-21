@@ -14,3 +14,6 @@ npm run dev
 
 https://laravel-news.com/laravel-postal-code-validation
 https://github.com/axlon/laravel-postal-code-validation
+
+A lightweight package to flash messages
+https://github.com/spatie/laravel-flash
