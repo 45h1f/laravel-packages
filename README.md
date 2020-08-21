@@ -17,3 +17,7 @@ https://github.com/axlon/laravel-postal-code-validation
 
 A lightweight package to flash messages
 https://github.com/spatie/laravel-flash
+
+
+Laravel Favicon
+https://github.com/beyondcode/laravel-favicon
